@@ -8,7 +8,7 @@ from config import llm_answers_path
 
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
